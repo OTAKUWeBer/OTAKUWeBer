@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python , HTML**
 
-- 📫 How to reach me **rtweber2004@gmail.com**
+- 📫 Contact - **rtweber2004@gmail.com**
 
 - ⚡ Fun fact **I just got a pc (it's still not mine)**
 
