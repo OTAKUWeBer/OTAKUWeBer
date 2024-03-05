@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otakuweber&show_icons=true&locale=en&layout=compact" alt="otakuweber" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otakuweber&show_icons=true&locale=en" alt="otakuweber" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otakuweber&show_icons=true&locale=en&layout=compact" alt="otakuweber" style="background-color: #f0f0f0;" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otakuweber&" alt="otakuweber" /></p>
