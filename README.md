@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://google.com)
 <h1 align="center">Hi 👋, I'm Weber</h1>
 <h3 align="center">A random developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZmZXM2MDdnc2NlOTJjZnAxNjc2dWU1bWVzOTcyNmw3OWNtbmxkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
 
 - 🌱 I’m currently learning **Python , HTML**
 
