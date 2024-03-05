@@ -6,7 +6,7 @@
 
 - 📫 Contact - **rtweber2004@gmail.com**
 
-- ⚡ Fun fact **I just got a pc (it's still not mine)**
+- ⚡ Fun fact **I was learning coding from phone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
