@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/otaku_weber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="otaku_weber" height="30" width="40" /></a>
-<a href="https://fb.com/rubayat tahsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayat tahsin" height="30" width="40" /></a>
+<a href="https://www.facebook.com/OTAKUWeBer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubayat tahsin" height="30" width="40" /></a>
 <a href="https://instagram.com/weberz_fr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weberz_fr" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/weber gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="weber gaming" height="30" width="40" /></a>
-<a href="https://discord.gg/weberz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="weberz" height="30" width="40" /></a>
+<a href="https://discord.com/users/772329070904999976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="weberz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
