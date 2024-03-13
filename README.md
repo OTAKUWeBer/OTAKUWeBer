@@ -2,11 +2,11 @@
 <h3 align="center">A random developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
 
-- 🌱 I’m currently learning **Python , HTML**
+- 🌱 I’m currently learning <a href="https://www.python.org/">Python</a> and <a href="https://www.w3.org/html/">HTML</a>
 
 - 📫 Contact - **rtweber2004@gmail.com**
 
-- ⚡ Fun fact **I was learning coding from phone**
+- ⚡ Fun fact **I started my journey from phone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
