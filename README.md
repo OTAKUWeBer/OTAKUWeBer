@@ -6,7 +6,7 @@
 
 - 📫 Contact - **rtweber2004@gmail.com**
 
-- ⚡ Fun fact **I started my journey from phone**
+- ⚡ Fun fact **I use phone (I don't have a pc)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
