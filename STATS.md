@@ -120,7 +120,7 @@
 ## YouTube Channel Stats
 
 <p>
-  <a href = "https://www.youtube.com/@OTAKUWeBer">
+  <a href = "https://www.youtube.com/@WEBERGaming">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://youtube-stats-card.vercel.app/api?channelid=UC4UVNjhcM-vVw-eQ9ryNPgQ&bg_color=0d1117&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb">
       <source media="(prefers-color-scheme: light)" srcset="https://youtube-stats-card.vercel.app/api?channelid=UC4UVNjhcM-vVw-eQ9ryNPgQ&theme=vue">
