@@ -21,7 +21,7 @@
 ### Favorite Quote
 > "The only way to do great work is to love what you do." – Steve Jobs
 
-<h2>My skills</h2>
+<h2>Programming languages I'm interested in</h2>
 
   <a href = "https://www.python.org">
     <picture>
@@ -29,13 +29,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
       <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python">
     </picture>
-  </a>
-
-<p>
-</p>
-
-
-<h2>Currently learning</h2>
+  </a>&nbsp;
 
   <a href = "https://isocpp.org">
     <picture>
@@ -43,12 +37,8 @@
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light">
       <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="Python">
     </picture>
-  </a>
+  </a>&nbsp;
 
-
-<h2>Bucket list</h2>
-
-<p>
   <a href = "https://www.typescriptlang.org/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=typescript&theme=dark">
@@ -57,6 +47,7 @@
     </picture>
   </a>
 
+<p>
 </p>
 
 <h2></h2>
