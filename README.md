@@ -23,12 +23,6 @@
 
 <h2>My skills</h2>
 
-<p>
-</p>
-
-
-<h2>Currently learning</h2>
-
   <a href = "https://www.python.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
@@ -36,6 +30,21 @@
       <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python">
     </picture>
   </a>
+
+<p>
+</p>
+
+
+<h2>Currently learning</h2>
+
+  <a href = "https://isocpp.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp&theme=light">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=light" alt="Python">
+    </picture>
+  </a>
+
 
 <h2>Bucket list</h2>
 
