@@ -16,9 +16,43 @@
 
 ---
 
-<div align="center">
-<img alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
-</div>
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@OTAKUWeBer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&layout=compact" alt="Wakatime Stats" width="100%"/>
+
+**🔥 Coding Activity**
+
+<img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+
+</td>
+<td width="34%" align="center">
+<img alt="Coding" width="320" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
+
+<br>
+
+💤 Sleepy ~ 💤
+
+<br>
+
+</td>
+<td width="33%" align="center">
+
+**📈 GitHub Metrics**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OTAKUWeBer&theme=tokyonight&utcOffset=6" alt="Productive Time" width="100%"/>
+
+**⚡ Most Productive**
+
+<img src="https://img.shields.io/badge/Time-AnyTime-FF6B6B?style=flat&logo=clockify&logoColor=white" />
+<img src="https://img.shields.io/badge/Day-EveryDay-4ECDC4?style=flat&logo=google-calendar&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -179,7 +213,7 @@ const weber = {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/otaku_weber)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/otaku_weber)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/OTAKUWeBer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weberz_fr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/weber%20gaming)
