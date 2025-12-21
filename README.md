@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
+<img align="right" alt="Coding" width="360" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
 
 ### 🚀 About Me
 
