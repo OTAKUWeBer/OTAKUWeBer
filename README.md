@@ -16,7 +16,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
+<div align="center">
+<img alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/64/7c/f1647c095b309fa390a977882c013543.gif">
+</div>
+
+<br>
 
 ### 🚀 About Me
 
@@ -37,8 +41,6 @@ const weber = {
     quote: "The only way to do great work is to love what you do."
 };
 ```
-
-<br clear="right"/>
 
 ---
 
