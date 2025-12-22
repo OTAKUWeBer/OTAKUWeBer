@@ -189,7 +189,7 @@ const weber = {
 
 <div align="center">
   <a href="https://github.com/OTAKUWeBer/OTAKUWeBer/blob/main/STATS.md">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OTAKUWeBer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=10" alt="GitHub Streak" />
+    <img src=https://github-readme-streak-stats-eight.vercel.app/?user=OTAKUWeBer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
