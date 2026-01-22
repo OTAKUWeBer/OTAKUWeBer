@@ -20,7 +20,7 @@
 <tr>
 <td width="33%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@OTAKUWeBer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&layout=compact" alt="Wakatime Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OTAKUWeBer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&layout=compact" alt="Wakatime Stats" width="100%"/>
 
 **🔥 Coding Activity**
 
